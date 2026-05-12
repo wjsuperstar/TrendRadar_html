@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T12:42:39.542959+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-05-12T15:49:48.068082+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -73,11 +73,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 12时42分]"
+          "appearance_count": 9,
+          "time_info": "[02时01分 ~ 15时49分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -99,8 +100,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 15时49分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -128,6 +129,29 @@
           "time_info": "[02时01分 ~ 08时06分]"
         },
         {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 15时49分]"
+        },
+        {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 15时49分]"
+        },
+        {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
           "url": "https://flash.jin10.com/detail/20260512054116878800",
           "source": "金十数据",
@@ -150,18 +174,6 @@
           "time_info": "08时06分"
         },
         {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 12时42分]"
-        },
-        {
           "title": "据华盛顿邮报：特朗普最早可能在周一签署一项关于人工智能安全的行政命令。",
           "url": "https://flash.jin10.com/detail/20260512013750764800",
           "source": "金十数据",
@@ -171,17 +183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
@@ -203,8 +204,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 15时49分]"
         },
         {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
@@ -212,11 +213,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时05分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 15时49分]"
         },
         {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
@@ -229,6 +231,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 04时03分]"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 15时49分]"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 15时49分]"
         },
         {
           "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
@@ -248,9 +274,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
+          "url": "https://flash.jin10.com/detail/20260512151748258800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
@@ -270,7 +318,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -308,6 +356,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "特朗普称访华行程将非常精彩",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B%E5%B0%86%E9%9D%9E%E5%B8%B8%E7%B2%BE%E5%BD%A9%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
           "url": "https://flash.jin10.com/detail/20260512010045688800",
           "source": "金十数据",
@@ -325,18 +384,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -350,17 +398,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时06分"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "美国总统特朗普考虑对伊朗采取军事行动，周一会见了国家安全团队。（Axios）",
@@ -468,9 +505,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "特朗普为何对“党内叛离者”束手无策",
+          "url": "https://www.toutiao.com/trending/7638219482196574254/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "美国总统特朗普：与伊朗达成外交解决方案的可能性仍然存在。",
@@ -498,7 +546,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -535,6 +583,17 @@
           "time_info": "[02时01分 ~ 08时06分]"
         },
         {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://news.ifeng.com/c/8t46R4Ygpuq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "据美联社：美国政府敦促银行标记可疑的伊朗洗钱活动。",
           "url": "https://flash.jin10.com/detail/20260512014103904800",
           "source": "金十数据",
@@ -544,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "据半岛电视台：伊朗消息人士表示，华盛顿拒绝了向伊朗支付战争损失赔偿的提议。",
@@ -563,7 +633,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -601,6 +671,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "外交部：伊朗局势当务之急是全力避免战端重启",
+          "url": "https://wallstreetcn.com/livenews/3102122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "媒体援引伊朗消息人士报道称，伊朗拒绝将铀转移到境外，并准备在国际原子能机构的监督下进行铀浓。 伊朗准备将高浓缩铀稀释至3.7%和20%的浓度。",
           "url": "https://wallstreetcn.com/livenews/3101804",
           "source": "华尔街见闻-快讯",
@@ -611,6 +692,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 04时03分]"
+        },
+        {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "美国财政部：伊朗相关制裁新目标包括革命卫队有关的个人和实体。",
@@ -685,7 +777,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -699,6 +791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "内塔尼亚胡称“不喜欢中国向伊朗导弹制造提供的支持”，中方回应",
+          "url": "https://wallstreetcn.com/livenews/3102116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外长与新加坡外长进行了电话交谈，讨论了双边关系以及地区最新局势和外交进程。",
@@ -899,6 +1002,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://wallstreetcn.com/livenews/3102086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，阿联酋此前已对伊朗实施军事打击。阿联酋的袭击包括对伊朗拉万岛上一座炼油厂的攻击。",
           "url": "https://flash.jin10.com/detail/20260512041239632800",
           "source": "金十数据",
@@ -916,6 +1030,17 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时14分 ~ 15时49分]"
+        },
+        {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2368275",
           "source": "财联社热门",
@@ -929,17 +1054,6 @@
           "time_info": "[02时01分 ~ 08时06分]"
         },
         {
-          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时14分 ~ 12时42分]"
-        },
-        {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
           "url": "https://www.cls.cn/detail/2368457",
           "source": "财联社热门",
@@ -949,8 +1063,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时14分 ~ 12时42分]"
+          "appearance_count": 6,
+          "time_info": "[06时14分 ~ 15时49分]"
         },
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -962,6 +1076,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时01分 ~ 04时03分]"
+        },
+        {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 15时49分]"
         },
         {
           "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
@@ -980,22 +1106,12 @@
           "url": "https://www.cls.cn/detail/2368550",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 15时49分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -1098,9 +1214,48 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "瑞银仍预计金价年底达到每盎司5600美元 银价料达到100美元",
+          "url": "https://wallstreetcn.com/livenews/3102015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "莫迪一句话砸落金价？真正元凶另有其人！",
+          "url": "https://flash.jin10.com/detail/20260512120126499800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "金十图示：2026年05月12日（周二）上海金午盘价为1028.92元/克，较国际金价(1025.11元/克)，高3.81元/克",
+          "url": "https://flash.jin10.com/detail/20260512151121220800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
@@ -1168,34 +1323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "瑞银仍预计金价年底达到每盎司5600美元 银价料达到100美元",
-          "url": "https://wallstreetcn.com/livenews/3102015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "莫迪一句话砸落金价？真正元凶另有其人！",
-          "url": "https://flash.jin10.com/detail/20260512120126499800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         }
       ]
     },
