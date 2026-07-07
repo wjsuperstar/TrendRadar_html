@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-07T16:29:47.121879+08:00",
-  "total_titles_processed": 996,
-  "failed_sources": [],
+  "generated_at": "2026-07-07T20:02:35.193016+08:00",
+  "total_titles_processed": 1188,
+  "failed_sources": [
+    "thepaper"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 20时02分]"
+        },
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
           "url": "https://news.ifeng.com/c/8uYByScLdvD",
@@ -18,17 +31,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时02分 ~ 07时15分]"
-        },
-        {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 16时29分]"
         },
         {
           "title": "特朗普再回应巴洛贡红牌事件，称若比利时赢了美国就是有黑幕",
@@ -46,11 +48,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 20时02分]"
         },
         {
           "title": "特朗普：就红牌与国际足联主席通话",
@@ -99,6 +102,17 @@
           "time_info": "00时56分"
         },
         {
+          "title": "意大利表示不再理会特朗普的挑衅",
+          "url": "https://wallstreetcn.com/livenews/3129962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "特朗普插手世界杯红牌",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -111,6 +125,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时56分 ~ 07时15分]"
+        },
+        {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 20时00分]"
         },
         {
           "title": "市场消息：美国民主党籍州总检察长反对特朗普拟对60个国家进口商品征收最高12.5%关税的计划。",
@@ -147,6 +173,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时02分 ~ 07时15分]"
+        },
+        {
+          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
+          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时02分]"
         },
         {
           "title": "如何评价国际足联主席称确实接到了特朗普电话，但「独立裁决」巴洛贡红牌禁赛延后处罚案件？真的毫无影响吗？",
@@ -219,6 +256,17 @@
           "time_info": "[06时12分 ~ 07时15分]"
         },
         {
+          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时00分 ~ 20时02分]"
+        },
+        {
           "title": "古巴前领导人孙子：愿同特朗普谈判",
           "url": "https://www.toutiao.com/trending/7659274358080143401/",
           "source": "今日头条",
@@ -242,26 +290,26 @@
           "time_info": "[12时03分 ~ 12时04分]"
         },
         {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
+          "title": "乌克兰总统泽连斯基：计划在周三与美国总统特朗普讨论空中防御问题。",
+          "url": "https://flash.jin10.com/detail/20260707193628336800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "20时02分"
         },
         {
-          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
-          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
-          "source": "凤凰网",
+          "title": "内塔尼亚胡要求特朗普“管管”埃尔多安",
+          "url": "https://wallstreetcn.com/livenews/3129959",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
+          "time_info": "20时02分"
         },
         {
           "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
@@ -295,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时00分"
         },
         {
           "title": "美国总统特朗普：做空者正遭受重创。",
@@ -372,12 +431,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "市场消息：土耳其总统埃尔多安在安卡拉机场迎接美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260707191743674800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -403,6 +473,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时14分 ~ 16时29分]"
+        },
+        {
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时02分]"
         },
         {
           "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -453,17 +535,6 @@
           "time_info": "[00时56分 ~ 07时15分]"
         },
         {
-          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
-          "url": "https://www.cls.cn/detail/2418780",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
           "url": "https://wallstreetcn.com/articles/3776262",
           "source": "华尔街见闻",
@@ -474,6 +545,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 03时02分]"
+        },
+        {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时00分 ~ 20时02分]"
         },
         {
           "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
@@ -500,13 +582,35 @@
           "time_info": "[06时12分 ~ 07时15分]"
         },
         {
+          "title": "分析师警告：美股正形成“双重泡沫”",
+          "url": "https://www.toutiao.com/trending/7658972584860352566/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时00分 ~ 20时02分]"
+        },
+        {
+          "title": "李大霄：做多美股需要警惕了",
+          "url": "https://www.toutiao.com/trending/7659718093526011433/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时00分 ~ 20时02分]"
+        },
+        {
           "title": "美股盘前，存储概念股普跌，美光科技跌4.8%，闪迪跌超4%；康宁跌超2%，英特尔跌超3%。",
           "url": "https://wallstreetcn.com/livenews/3129830",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -533,6 +637,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "英伟达美股盘前短线下跌，现跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3129939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
           "url": "https://wallstreetcn.com/livenews/3129551",
           "source": "华尔街见闻-快讯",
@@ -550,7 +665,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
@@ -602,9 +717,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
+          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时02分]"
         },
         {
           "title": "伊朗最高领袖发布任免令",
@@ -616,17 +742,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
-        },
-        {
-          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
-          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
         },
         {
           "title": "欧洲央行管委Wunsch：似乎伊朗冲击已经消退，我们尚未看到太多的第二轮（通胀）效应。 我们可能还得（围绕货币政策）采取更多行动，但形势并不要求央行大幅紧缩。 不排除央行再次（采取加息）行动，但不要让我们等太久。",
@@ -687,18 +802,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
           "url": "https://www.zhihu.com/question/2057753624717911009",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 20时02分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -735,13 +851,35 @@
           "time_info": "[12时03分 ~ 12时04分]"
         },
         {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时00分 ~ 20时02分]"
+        },
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时00分"
+        },
+        {
           "title": "DeepSeek面试",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         }
