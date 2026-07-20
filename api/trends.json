@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T06:04:03.621919+08:00",
-  "total_titles_processed": 504,
+  "generated_at": "2026-07-20T08:04:35.981323+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 46,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 08时04分]"
         },
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 06时04分]"
+          "appearance_count": 6,
+          "time_info": "[03时16分 ~ 08时04分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -37,8 +37,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 08时04分]"
+        },
+        {
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 08时04分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -52,15 +64,81 @@
           "time_info": "01时06分"
         },
         {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
+          "title": "伊朗塔斯尼姆通讯社：伊朗西南部的马赫沙赫尔港（Bandar Mahshahr）和伊玛目霍梅尼港（Bandar Imam Khomeini）传出了数声爆炸巨响。",
+          "url": "https://flash.jin10.com/detail/20260720073447211800",
+          "source": "金十数据",
           "ranks": [
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "据伊朗Press TV：有消息指美国对伊朗城市大不里士发动了打击。",
+          "url": "https://flash.jin10.com/detail/20260720072937572800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "科威特军方称拦截伊朗无人机袭击。（法新社）",
+          "url": "https://wallstreetcn.com/livenews/3136385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
+          "url": "https://news.ifeng.com/c/8utWHdX6JW4",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美国中央司令部开始对伊朗进行新一轮打击，已于美国东部时间晚上7点开始对伊朗进行空袭。",
+          "url": "https://wallstreetcn.com/livenews/3136384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美军连续第九晚打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260720071722833800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "据沙特阿拉比亚电视台：伊朗媒体称伊朗马尔卡齐省（中央省）南部德利詹市发生爆炸，伊朗西部的阿拉克发生爆炸。",
@@ -310,7 +388,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -321,7 +399,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -332,7 +410,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -343,7 +421,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         },
@@ -425,13 +503,35 @@
           "time_info": "01时06分"
         },
         {
+          "title": "周一亚市盘初，布油、WTI原油期货高开2%，美国和伊朗在中东地区冲突加剧。 布油期货突破90美元/桶，为6月11日以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3136359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美国打伊朗越打越尴尬",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%97%E8%B6%8A%E6%89%93%E8%B6%8A%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
           "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
           "url": "https://wallstreetcn.com/livenews/3136320",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
         }
@@ -439,18 +539,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
           "url": "https://www.cls.cn/detail/2430341",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 08时04分]"
         },
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -460,8 +561,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 08时04分]"
         },
         {
           "title": "大罗把大力神杯递给特朗普",
@@ -474,17 +575,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时00分 ~ 06时04分]"
-        },
-        {
-          "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
-          "url": "https://wallstreetcn.com/livenews/3136355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时04分"
         },
         {
           "title": "特朗普：美国将立即再次申办世界杯 决赛看好阿根廷",
@@ -523,6 +613,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时00分 ~ 06时04分]"
+        },
+        {
+          "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
+          "url": "https://wallstreetcn.com/livenews/3136355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时04分 ~ 08时04分]"
         },
         {
           "title": "特朗普现身世界杯决赛看台",
@@ -608,6 +710,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普摸大力神杯",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "两天三名美军死亡！美伊冲突失控风险骤升，特朗普迎来关键考验",
+          "url": "https://flash.jin10.com/detail/20260720065512528800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "特朗普为西班牙颁奖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "美国总统特朗普将大力神杯颁给西班牙队。",
+          "url": "https://flash.jin10.com/detail/20260720064454811800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
@@ -623,8 +769,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 08时04分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -644,7 +790,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
@@ -656,6 +802,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 06时04分]"
+        },
+        {
+          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         }
       ]
     },
@@ -671,11 +828,12 @@
             9,
             5,
             8,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 06时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 08时04分]"
         }
       ]
     }
