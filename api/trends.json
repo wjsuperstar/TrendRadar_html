@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-11T21:22:10.109160+08:00",
-  "total_titles_processed": 1653,
+  "generated_at": "2026-08-11T23:06:37.997682+08:00",
+  "total_titles_processed": 1772,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时58分 ~ 23时06分]"
+        },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
           "url": "https://wallstreetcn.com/articles/3779107",
@@ -19,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 23时06分]"
         },
         {
           "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
@@ -32,17 +43,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时12分 ~ 19时51分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时58分 ~ 21时22分]"
         },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -92,6 +92,17 @@
           "time_info": "[10时12分 ~ 19时51分]"
         },
         {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 23时06分]"
+        },
+        {
           "title": "特朗普称要向伊朗索赔",
           "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
           "source": "凤凰网",
@@ -101,17 +112,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时52分 ~ 07时42分]"
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
         },
         {
           "title": "美媒：特朗普上月秘密乘运输机回国",
@@ -334,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "市场消息：美国公民自由联盟（ACLU）及其他法律团体请求美国法官阻止特朗普最新限制“出生公民权”的行动。",
+          "url": "https://flash.jin10.com/detail/20260811224133543800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
@@ -559,7 +570,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -570,8 +581,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 23时06分]"
         },
         {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
@@ -582,8 +593,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 23时06分]"
         },
         {
           "title": "伊朗更强硬的强硬派来了",
@@ -594,8 +605,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 21时22分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 23时06分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -670,7 +681,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -762,6 +773,18 @@
           "time_info": "[10时12分 ~ 13时58分]"
         },
         {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 23时06分]"
+        },
+        {
           "title": "伊朗最高领袖将任命数名高级指挥官",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
           "source": "百度热搜",
@@ -786,17 +809,6 @@
           "time_info": "[04时52分 ~ 06时47分]"
         },
         {
-          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
-          "url": "https://www.zhihu.com/question/2070450417981469090",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
-        },
-        {
           "title": "伊朗分析人士：霍尔木兹海峡对峙胜负取决于谁先“喊疼”",
           "url": "https://flash.jin10.com/detail/20260811151638802800",
           "source": "金十数据",
@@ -819,13 +831,24 @@
           "time_info": "18时57分"
         },
         {
+          "title": "分析人士：伊朗在霍尔木兹海峡的谈判筹码正在“贬值”",
+          "url": "https://flash.jin10.com/detail/20260811230011449800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "美国向一艘破坏其对伊朗封锁的船只开火。 美国周二早间向一艘悬挂巴拿马旗帜的船只开火。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3148075",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -896,6 +919,28 @@
           "time_info": "06时47分"
         },
         {
+          "title": "美官员称美军向一艘与伊朗有关的船只开火",
+          "url": "https://wallstreetcn.com/livenews/3148109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "伊朗外交部：巴基斯坦内政部长与伊朗外长阿拉格齐举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260811222206746800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "伊朗警告乌克兰：不赔偿就动手",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
           "source": "百度热搜",
@@ -927,6 +972,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "伊朗天然气日产能9月有望回升近1亿立方米",
+          "url": "https://flash.jin10.com/detail/20260811221953945800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "伊朗石油部长表示，到9月底将有9500万立方米的天然气恢复进入生产循环。（伊朗官方通讯社Shana）",
@@ -965,7 +1021,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -975,8 +1031,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时42分 ~ 21时22分]"
+          "appearance_count": 12,
+          "time_info": "[07时42分 ~ 23时06分]"
         },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -1033,7 +1089,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -1097,6 +1153,17 @@
           "time_info": "[04时52分 ~ 06时47分]"
         },
         {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
           "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260811040544089800",
           "source": "金十数据",
@@ -1117,6 +1184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         },
         {
           "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
@@ -1147,7 +1225,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -1172,6 +1250,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨超1%，公用事业ETF、全球航空业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，英伟达涨约2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3148099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时06分"
         }
       ]
     },
@@ -1384,7 +1484,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -1395,7 +1495,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -1406,7 +1506,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         },
@@ -1566,7 +1666,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时22分"
         }
