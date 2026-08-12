@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T10:29:39.920210+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-08-12T14:21:37.051073+08:00",
+  "total_titles_processed": 787,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[05时56分 ~ 07时51分]"
         },
         {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 14时21分]"
+        },
+        {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://flash.jin10.com/detail/20260812053053264800",
           "source": "金十数据",
@@ -56,18 +68,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时51分]"
-        },
-        {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 10时29分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -100,9 +100,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 14时21分]"
         },
         {
           "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
@@ -122,7 +122,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -133,7 +133,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -144,7 +144,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -155,7 +155,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -166,7 +166,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
@@ -188,17 +188,6 @@
           "time_info": "[05时56分 ~ 06时53分]"
         },
         {
-          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3779161",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 05时57分]"
-        },
-        {
           "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
           "url": "https://www.cls.cn/detail/2451784",
           "source": "财联社热门",
@@ -208,8 +197,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 10时29分]"
+          "appearance_count": 4,
+          "time_info": "[06时53分 ~ 14时21分]"
+        },
+        {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 05时57分]"
         },
         {
           "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
@@ -317,7 +317,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -387,8 +387,42 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 14时21分]"
+        },
+        {
+          "title": "伊朗，密集“换帅”",
+          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时51分 ~ 10时29分]"
+          "time_info": "[10时29分 ~ 14时21分]"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 14时21分]"
+        },
+        {
+          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
+          "url": "https://www.cls.cn/detail/2451716",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 14时21分]"
         },
         {
           "title": "伊朗警告乌克兰不赔偿就动手",
@@ -402,43 +436,21 @@
           "time_info": "[05时56分 ~ 05时57分]"
         },
         {
-          "title": "伊朗，密集“换帅”",
-          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
-          "source": "凤凰网",
+          "title": "最高领袖久不露面，伊朗权力真空扩大：强硬派正抢占战争主导权",
+          "url": "https://flash.jin10.com/detail/20260812133649340800",
+          "source": "金十数据",
           "ranks": [
-            6
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
-          "url": "https://www.cls.cn/detail/2451716",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "14时21分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "怎么看 DeepSeek 注册 Harness 公众号并选用黑鲸鱼 logo ？",
@@ -447,11 +459,12 @@
           "ranks": [
             14,
             9,
-            2
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时56分 ~ 10时29分]"
+          "appearance_count": 6,
+          "time_info": "[05时56分 ~ 14时21分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -476,6 +489,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时51分]"
+        },
+        {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "Chatgpt把Deepseek当宿敌了",
+          "url": "https://s.weibo.com/weibo?q=Chatgpt%E6%8A%8ADeepseek%E5%BD%93%E5%AE%BF%E6%95%8C%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
