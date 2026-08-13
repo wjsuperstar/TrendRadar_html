@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T12:59:38.247414+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-08-13T14:25:22.466577+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -172,22 +172,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时25分]"
         },
         {
           "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
           "url": "https://www.cls.cn/detail/2452937",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时25分]"
         },
         {
           "title": "白宫新闻秘书辞职，特朗普中期选举前痛失“最锋利的话筒”",
@@ -347,7 +349,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "DeepSeek Pro 正式版已经发布，如何评价该模型？",
@@ -385,6 +387,17 @@
           "time_info": "[01时04分 ~ 10时31分]"
         },
         {
+          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
+          "url": "https://www.zhihu.com/question/2071014727606703118",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 14时25分]"
+        },
+        {
           "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
           "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
           "source": "澎湃新闻",
@@ -397,17 +410,6 @@
           "time_info": "[01时04分 ~ 07时51分]"
         },
         {
-          "title": "DeepSeek V4 Pro 正式版发布，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/2071014727606703118",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 12时59分]"
-        },
-        {
           "title": "DeepSeek V4 Pro正式版来了！尚未公布调价方案",
           "url": "https://www.cls.cn/detail/2452920",
           "source": "财联社热门",
@@ -416,8 +418,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 14时25分]"
+        },
+        {
+          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
+          "url": "https://wallstreetcn.com/articles/3779306",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 14时25分]"
         },
         {
           "title": "DeepSeek发布V4Pro正式版",
@@ -456,18 +471,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时54分 ~ 06时51分]"
-        },
-        {
-          "title": "DeepSeek V4 Pro正式版深夜“突袭”：多项测试逼近Fable 5，撞车Grok 4.6",
-          "url": "https://wallstreetcn.com/articles/3779306",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 12时59分]"
         },
         {
           "title": "DeepSeek V4 Pro正式版API更新：多项测试性能接近Fable 5",
@@ -531,6 +534,17 @@
           "time_info": "[01时04分 ~ 03时11分]"
         },
         {
+          "title": "真实项目实测DeepSeek V4 Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9C%9F%E5%AE%9E%E9%A1%B9%E7%9B%AE%E6%B5%8BDeepSeek%20V4%20Pro",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "DeepSeek V4 Pro正式版API上线",
           "url": "https://www.toutiao.com/trending/7673284418319945259/",
           "source": "今日头条",
@@ -553,13 +567,24 @@
           "time_info": "10时31分"
         },
         {
+          "title": "DeepSeek刷新模型斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%88%B7%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "DeepSeek发布V4Pro正式版",
           "url": "https://www.douyin.com/hot/2607669",
           "source": "抖音",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -579,8 +604,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时51分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时51分 ~ 14时25分]"
         },
         {
           "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
@@ -592,8 +617,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时51分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时51分 ~ 14时25分]"
         },
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -757,6 +782,19 @@
           "time_info": "[01时04分 ~ 06时51分]"
         },
         {
+          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2452922",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 14时25分]"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
           "url": "https://flash.jin10.com/detail/20260813044926176800",
           "source": "金十数据",
@@ -781,18 +819,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时55分 ~ 06时51分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2452922",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 12时59分]"
         },
         {
           "title": "伊朗拖美国入不对称战争，“蝴蝶效应”波及日本卷帘门",
@@ -856,8 +882,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时51分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[06时51分 ~ 14时25分]"
         },
         {
           "title": "谷歌：Pixel 11 Pro Fold今日开启预购，将于8月20日上市开售。",
@@ -940,6 +966,59 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
+          "url": "https://www.cls.cn/detail/2452988",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时25分]"
+        },
+        {
+          "title": "不加息也压不住？10年期美债中标收益率创金融危机以来最高！",
+          "url": "https://flash.jin10.com/detail/20260813141612887800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
+          "url": "https://wallstreetcn.com/livenews/3148749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时55分 ~ 06时51分]"
+        },
+        {
+          "title": "短端加不动，长端压不住：美债如何破局？",
+          "url": "https://flash.jin10.com/detail/20260813122822904800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -973,48 +1052,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
-          "url": "https://www.cls.cn/detail/2452988",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        },
-        {
-          "title": "温和通胀数据及10年期国债拍卖后，美债收盘涨跌互现",
-          "url": "https://wallstreetcn.com/livenews/3148749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24,
-            28
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 06时51分]"
-        },
-        {
-          "title": "短端加不动，长端压不住：美债如何破局？",
-          "url": "https://flash.jin10.com/detail/20260813122822904800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
